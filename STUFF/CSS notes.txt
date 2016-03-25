@@ -1,0 +1,28 @@
+*CSS References
+-https://developer.mozilla.org/en-US/docs/Web/CSS
+-http://www.htmllion.com/
+
+HTML
+Blocks:
+<div>
+<H1-H6>
+<p>
+<header>
+<footer>
+<section>
+
+Inlines:
+<span>
+<a>
+<img>
+
+<div="class"></div>
+
+
+CSS
+*Think* Clockwise : Top, right, bottom, left
+margin, padding, position
+
+
+Grid
+
